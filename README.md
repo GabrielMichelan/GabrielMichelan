@@ -2,7 +2,7 @@
 
 <h3 style="font-size: 24px;">Olá, me chamo Gabriel. Estou atuando no mercado tecnológico na área de Qualidade de Software, analisando e garantindo a qualidade de sistemas utilizados pelas instituições financeiras.</h3>
 
-🤖 Automação de teste (Robot Framework);
+🤖 Automação de teste.
 
 ⚡️ Buscando minha evolução profissional, sempre disposto a encarar novas oportunidades e novos desafios.
 
