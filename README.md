@@ -6,6 +6,4 @@
 
 ⚡️ Buscando minha evolução profissional, sempre disposto a encarar novas oportunidades e novos desafios.
 
-💬 Pergunte-me sobre qualquer coisa, fico feliz em ajudar;
-
 📫 Entrar em contato: michelan2@hotmail.com
